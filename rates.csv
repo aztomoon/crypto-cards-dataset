@@ -1,0 +1,89 @@
+card,tier,cashback_percent,fx_percent,topup_fee_percent,cost,cashback_cap,payout,regions,excluded_countries,verified_by_issuer
+Plasma One,Lite,2,2,,"$10 deposit, no annual fee","2% on first $500/mo, then 0.1%","paid in XPL or spending credit, weekly after a few days pending",GLOBAL,CU IR KP RU SY UA VE,true
+Tria Card,Virtual (Lite),1.5,0,0,$25/yr,"$1,000/mo, then 0.5%","paid in USDT, claimed by hand in batches, up to 90 days; needs active membership",,,true
+Kast Card,Standard,1.5,,0,free,"first $2,000/mo","USD rewards spendable only inside KAST, timelock, redeem by hand",GLOBAL,,false
+Ether.fi Card,Core,3,,0,free,"first $2,000/mo","paid in ETHFI, 7-day lock, then claim by hand",GLOBAL,US,false
+Jupiter Global,,2,1,,free card; physical $13.13,$100/mo; 4% with 2+ referrals/mo,"paid in USDC after settlement, withdraw any time",LATAM AFRICA MENA APAC,CN IN IL NP BY IR KP RU CU SY VE,true
+Bybit Card,,,1.4,,,,points auto-converted to USDT daily after 4 days pending,EEA UK MENA,,
+RedotPay Card,,0,1.2,1,$10 virtual / $100 physical,,,GLOBAL,US CN RU BY UA IR KP SY CU VE AF IQ LB LY MM NI RS BA SD SS SO YE ZW ML BF BI CF CD ER ET GW HT LR,false
+Nexo Card,Base,0.5,0,,"free; portfolio over $5,000",,"NEXO or BTC, needs $5,000 portfolio",EEA UK LATAM,US TW HK,true
+Wirex Card,,0.5,0,,free,,Wirex One: USD after settlement; old Cryptoback: WXT,EEA UK APAC,US CA RU,false
+OKX Card,Regular,2,0.1,,free,EUR 10/mo,paid in USDG within 24 h to 5 business days,EEA,IS LI,false
+EMCD Card,,0,0,1.5,,,,,,
+MEXC Card,VVIP Standard,4,1,1,free; M-Score 350+,100 USDT/mo,paid in USDT automatically within 3 days,EEA MENA LATAM,US CA CN HK SG RU KZ,true
+Oobit Card,,5,,1,free,5% back on the first $200/mo spent with USDT ($10/mo); virtual card only,"Tether Gold (XAUT), spend on the card only (USDT for US users); 1% fee on purchases",GLOBAL,,true
+Ledger CL,,1,,,free,,paid in BTC or USDT/USDC at month end,EEA UK US CA LATAM,,false
+Tangem Pay Card,Basic,1,,0,free,"$100/mo, min $30 per purchase","paid in USDC monthly, spend on card only",US LATAM APAC MENA AFRICA,CN RU KP PS,true
+Ready Lite,,0,1,0,,,,EEA UK,,
+Bleap Card,,1,0,0,free,"20% only on listed subscriptions (Claude $300/yr, ChatGPT $36/mo, Gemini $24/mo, Netflix, YouTube...); API usage not covered; transport 3% up to $600/mo; rest 1% up to $3,600/mo",paid in USDC after the merchant confirms,EEA,,true
+Coinbase One Card,,2,0,0,Coinbase One $49.99/yr,up to 4% by assets held,"paid in BTC, up to 30 days",US,,false
+Crypto.com Visa,Midnight Blue,0,0,1,"free, no stake",,paid in CRO; higher tiers need a 12-month CRO lock,US EEA UK CA APAC LATAM,,false
+Gnosis Pay,0.1 GNO,1,0,0,hold 0.1 GNO,,,EEA UK LATAM,,true
+MetaMask Card,Virtual,1,,,free,,paid in mUSD to Money Account,EEA UK CA LATAM,,false
+Ethena Pay,Standard,4,1,,free,"first $2,500/mo; under $1 earns nothing",paid in AVAX daily; under $1 purchases earn nothing,LATAM APAC MENA AFRICA,US,false
+Bitpanda Card,,1,0,0.99,free,only when paying in crypto,"paid in the crypto you spent, up to 15 days; stablecoins earn nothing",EEA,CY LI,true
+Trustee Plus Card,,0,0.5,0.5,$10 virtual,,,EEA UK,,false
+Wayex Card,,,1.5,0,,,,,,
+Zypto Card,,0,1.75,3,,,,,,
+Fold Card,,1.5,,0,,,"paid in BTC sats, 30-day lock",US,,
+Gemini Credit,,1,,0,,,"paid in crypto, usually within minutes",US,,
+Venmo Credit,,1,,0,no annual fee,"3% top category, 2% second","USD cash back, ~3 business days",US,,true
+Brighty Card,One,0.5,,,free,$20/mo,paid in USDC within ~5 business days,EEA,,true
+Deblock Card,Standard,0,,,free,,,,,false
+Fiat24 Card,,0,,,,,,EEA,US,
+THORWallet Card,Basic,0,1.5,0,$5 one-off,,"paid in USDC; 0.5% capped $5,000/mo spend",GLOBAL,,true
+Bitrefill Card,,1,,,free,store credit only,EUR store credit for Bitrefill only,EEA,,false
+Tuyo Card,,0,1,0,,,,,,
+ARQ Card,Standard,0,,,free,$3 per deposit,"paid in USDC; 1-2% on first $500/mo, then 0.5%",LATAM,,true
+Avici Card,,0,1.13,0,,,,,,
+Jam Card,,0,,3,,,,,,
+CinCin Card,,0,,,,,,,,
+TapX Card,,,0,0,,,,,,
+WhiteBIT Card,,,,0,free,EUR 25/mo,"BTC or WBT, withdraw from 5 USDC, cap $25/mo",EEA,,true
+Bitget Card,Level 1 (non-VIP),2,,,free,"$5/mo, shared pool","BGB (APAC) or BTC/USDC assetback, claim after 8 days",APAC,,true
+Binance Card,Under $100/mo spend,1,,,free,,,,,true
+PayFun Card,,,,,,,,,,
+PAY.SPACE Wallet,,0,,,,,,,,
+Plati Po Miru,,0,,,,,,,,
+Coca Card,Starter,1,,0,"free, no COCA",claim up to $15/mo,"USD or EUR, claim after up to 14 days, monthly claim cap",GLOBAL,,false
+Plasma One Core,,3,1.5,,$199/yr or 20k XPL lock (third-party),"3% first $1,000/mo; AI 5% first $250","paid in XPL or spending credit, weekly after a few days pending",GLOBAL,CU IR KP RU SY UA VE,true
+Plasma One Platinum,,4,0,,150k XPL lock (third-party),"4% first $3,000/mo; AI 10% first $500","paid in XPL or spending credit, weekly after a few days pending",GLOBAL,CU IR KP RU SY UA VE,true
+Tria Card Signature (Pro),,4.5,0,0,$109/yr,"$2,000/mo, then 1%","paid in USDT, claimed by hand in batches, up to 90 days; needs active membership",,,true
+Tria Card Premium (Max),,6,0,0,$250/yr,"$2,000/mo, then 1%","paid in USDT, claimed by hand in batches, up to 90 days; needs active membership",,,true
+Kast Card Premium,,2,,0,"$1,000/yr","up to $10,000/mo; +1% KAST points","USD rewards spendable only inside KAST, timelock, redeem by hand",GLOBAL,,false
+Kast Card Private,,3,,0,"$10,000/yr","up to $40,000/mo; +2% KAST points","USD rewards spendable only inside KAST, timelock, redeem by hand",GLOBAL,,false
+Tangem Pay Card Plus,,2,,0,$29/mo,$300/mo,"paid in USDC monthly, spend on card only",US LATAM APAC MENA AFRICA,CN RU KP PS,true
+Tangem Pay Card Prestige,,4,,0,"$999/yr, waitlist","$1,000/mo","paid in USDC monthly, spend on card only",US LATAM APAC MENA AFRICA,CN RU KP PS,true
+MEXC Card VVIP Premier,,6,1,1,free; M-Score 600+,300 USDT/mo,paid in USDT automatically within 3 days,EEA MENA LATAM,US CA CN HK SG RU KZ,true
+MEXC Card VVIP Elite,,10,1,1,free; M-Score 800+,800 USDT/mo,paid in USDT automatically within 3 days,EEA MENA LATAM,US CA CN HK SG RU KZ,true
+OKX Card VIP 1,,4,0.1,,"free, exchange VIP 1",EUR 300/mo,paid in USDG within 24 h to 5 business days,EEA,IS LI,false
+OKX Card VIP 2,,4.5,0.1,,"free, exchange VIP 2",EUR 450/mo,paid in USDG within 24 h to 5 business days,EEA,IS LI,false
+OKX Card VIP 3+,,5,0.1,,"free, exchange VIP 3+","EUR 1,000/mo",paid in USDG within 24 h to 5 business days,EEA,IS LI,false
+Nexo Card Silver,,0.7,0,,NEXO share of portfolio,,"NEXO or BTC, needs $5,000 portfolio",EEA UK LATAM,US TW HK,true
+Nexo Card Gold,,1,0,,NEXO share of portfolio,,"NEXO or BTC, needs $5,000 portfolio",EEA UK LATAM,US TW HK,true
+Nexo Card Platinum,,2,0,,~10% portfolio in NEXO,,"NEXO or BTC, needs $5,000 portfolio",EEA UK LATAM,US TW HK,true
+Ether.fi Card Luxe,,3,,0,"ETHFI stake, threshold unclear",,"paid in ETHFI, 7-day lock, then claim by hand",GLOBAL,US,false
+Ether.fi Card Pinnacle,,3,,0,"ETHFI stake, threshold unclear","up to $50,000/mo","paid in ETHFI, 7-day lock, then claim by hand",GLOBAL,US,false
+Ether.fi Card VIP,,4,,0,invite-only,,"paid in ETHFI, 7-day lock, then claim by hand",GLOBAL,US,false
+ARQ Card Premium,,1,,,$6.99/mo or $69.99/yr,"1% on first $500/mo, then 0.5%","paid in USDC; 1-2% on first $500/mo, then 0.5%",LATAM,,true
+ARQ Card Prestige,,2,,,~199 USDc/yr (third-party),"2% on first $500/mo, then 0.5%","paid in USDC; 1-2% on first $500/mo, then 0.5%",LATAM,,true
+Binance Card $100-500/mo spend,,1.5,,,free,,,,,true
+"Binance Card $500-1,000/mo spend",,2,,,free,,,,,true
+"Binance Card $1,000+/mo spend",,3,,,free,$50/mo,,,,true
+Bitget Card Level 2 (VIP 1-2),,4,,,exchange VIP 1-2,$100/mo,"BGB (APAC) or BTC/USDC assetback, claim after 8 days",APAC,,true
+Bitget Card Level 3 (VIP 3-4),,6,,,exchange VIP 3-4,$350/mo,"BGB (APAC) or BTC/USDC assetback, claim after 8 days",APAC,,true
+Bitget Card Level 4 (VIP 5-7),,12,,,exchange VIP 5-7,$800/mo,"BGB (APAC) or BTC/USDC assetback, claim after 8 days",APAC,,true
+Coca Card Standard+ to Elite,,,,0,"hold COCA, amounts not published",up to 8% and 50% on subscriptions/hotels by tier; claim $15-350/mo,"USD or EUR, claim after up to 14 days, monthly claim cap",GLOBAL,,true
+Ethena Pay Pro,,4.5,1,,"lock $2,000 ENA or 10 referrals",,paid in AVAX daily; under $1 purchases earn nothing,LATAM APAC MENA AFRICA,US,false
+Ethena Pay VIP,,5,1,,"lock $10,000 ENA or 50 referrals",,paid in AVAX daily; under $1 purchases earn nothing,LATAM APAC MENA AFRICA,US,false
+Crypto.com Visa Ruby Steel,,1,0,1,~$400 CRO stake,,paid in CRO; higher tiers need a 12-month CRO lock,US EEA UK CA APAC LATAM,,false
+Crypto.com Visa Royal Indigo / Jade Green,,2,0,1,"~$4,000 CRO stake",,paid in CRO; higher tiers need a 12-month CRO lock,US EEA UK CA APAC LATAM,,false
+Brighty Card Plus,,0.5,,,fee not published,$60/mo; boosted category up to 1.5%,paid in USDC within ~5 business days,EEA,,true
+Brighty Card Pro,,0.5,,,fee not published,$100/mo; two boosted categories up to 1.5%,paid in USDC within ~5 business days,EEA,,true
+Gnosis Pay 1 GNO,,2,0,0,hold 1 GNO,,,EEA UK LATAM,,true
+Gnosis Pay 10 GNO,,3,0,0,hold 10 GNO,,,EEA UK LATAM,,true
+Gnosis Pay 100 GNO,,4,0,0,hold 100 GNO,,,EEA UK LATAM,,true
+MetaMask Card Metal,,3,0,,$199/yr,"3% on first $10,000/yr, then 1%",paid in mUSD to Money Account,EEA UK CA LATAM,,false
+THORWallet Card Premium,,0.5,1.5,0,$124 one-off,"first $5,000/mo","paid in USDC; 0.5% capped $5,000/mo spend",GLOBAL,,true
+Deblock Card Premium,,1,,,EUR 14.99/mo (2025 price list),,,,,false
+Jupiter Global 2+ referrals,,4,1,,"free, needs 2+ referrals a month",$200/mo,"paid in USDC after settlement, withdraw any time",LATAM AFRICA MENA APAC,CN IN IL NP BY IR KP RU CU SY VE,true
